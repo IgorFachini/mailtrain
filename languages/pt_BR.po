@@ -4500,7 +4500,7 @@ msgstr "Ajustes de remitente verificados, listo para enviar algún correo!"
 
 #: routes/subscription.js:33
 msgid "Not allowed by CORS"
-msgstr "No es permitido por CORS"
+msgstr "Não permitido pelo CORS"
 
 #: routes/subscription.js:61 routes/subscription.js:175
 #: routes/subscription.js:285 routes/subscription.js:381
@@ -4509,147 +4509,145 @@ msgstr "No es permitido por CORS"
 #: routes/subscription.js:681 routes/subscription.js:759
 #: routes/subscription.js:896
 msgid "Selected list not found"
-msgstr "La lista seleccionada no se encuentra"
+msgstr "Lista selecionada não encontrada"
 
 #: routes/subscription.js:92
 msgid "Could not save subscription"
-msgstr "No se pudo guardar la suscripción"
+msgstr "Não foi possível salvar a assinatura"
 
 #: routes/subscription.js:117
 msgid "Subscriber info corrupted or missing"
-msgstr "Datos de Suscripción dañados o perdidos"
+msgstr "Informações do assinante corrompidas ou ausentes"
 
 #: routes/subscription.js:135
 msgid "Email address changed"
-msgstr "Correo electrónico ha cambiado"
+msgstr "Endereço de e-mail alterado"
 
 #: routes/subscription.js:178 routes/subscription.js:384
 msgid "The list does not allow public subscriptions."
-msgstr "La lista no permite suscripciones públicas."
+msgstr "A lista não permite assinaturas públicas."
 
 #: routes/subscription.js:354 routes/subscription.js:356
 msgid "Email address not set"
-msgstr "Correo electrónico no establecido"
+msgstr "Endereço de e-mail não definido"
 
 #: routes/subscription.js:652
 msgid ""
 "An email with further instructions has been sent to the provided address"
 msgstr ""
-"Un correo electrónico con más instrucciones ha sido enviado a la dirección "
-"proporcionada"
+"Um email com mais instruções foi enviado para o endereço fornecido"
 
 #: routes/subscription.js:860 routes/subscription.js:876
 msgid "Public key is not set"
-msgstr "La clave pública no se ha establecido"
+msgstr "A chave pública não está definida"
 
 #: routes/templates.js:84
 msgid "Could not create template"
-msgstr "No se pudo crear la plantilla"
+msgstr "Não foi possível criar um modelo"
 
 #: routes/templates.js:87
 msgid "Template created"
-msgstr "Planilla creada"
+msgstr "Modelo criado"
 
 #: routes/templates.js:126
 msgid "Template settings updated"
-msgstr "Configuración de plantilla actualizada"
+msgstr "Configurações de modelo atualizadas"
 
 #: routes/templates.js:128
 msgid "Template settings not updated"
-msgstr "Configuración de plantilla no actualizada"
+msgstr "Configurações de modelo não atualizadas"
 
 #: routes/templates.js:144
 msgid "Template deleted"
-msgstr "Plantilla eliminada"
+msgstr "Modelo excluído"
 
 #: routes/templates.js:146
 msgid "Could not delete specified template"
-msgstr "No se pudo eliminar la plantilla especificada"
+msgstr "Não foi possível excluir o modelo especificado"
 
 #: routes/triggers.js:62 routes/triggers.js:79 routes/triggers.js:154
 msgid "Could not find selected list"
-msgstr "No se pudo encontrar lista seleccionada"
+msgstr "Não foi possível encontrar a lista selecionada"
 
 #: routes/triggers.js:131
 msgid "Could not create trigger"
-msgstr "No se pudo crear el Trigger"
+msgstr "Não foi possível criar o gatilho"
 
 #: routes/triggers.js:138
 msgid "Trigger “%s” created"
-msgstr "Trigger “%s” creado"
+msgstr "Gatilho “%s” criado"
 
 #: routes/triggers.js:214
 msgid "Trigger settings updated"
-msgstr "Ajustes de Trigger actualizados"
+msgstr "Configurações de gatilho atualizadas"
 
 #: routes/triggers.js:216
 msgid "Trigger settings not updated"
-msgstr "Ajustes de Trigger no actualizados"
+msgstr "Configurações de gatilho não atualizadas"
 
 #: routes/triggers.js:228
 msgid "Trigger deleted"
-msgstr "Trigger eliminado"
+msgstr "Gatilho eliminado"
 
 #: routes/triggers.js:230
 msgid "Could not delete specified trigger"
-msgstr "No se pudo eliminar el Trigger especificado"
+msgstr "Não foi possível excluir o gatilho especificado"
 
 #: routes/triggers.js:242
 msgid "Could not find trigger with specified ID"
-msgstr "No se pudo encontrar el Trigger con el ID especificado"
+msgstr "Não foi possível encontrar o gatilho com o ID especificado"
 
 #: routes/triggers.js:255
 msgid "Trigger not found"
-msgstr "Trigger no encontrado"
+msgstr "Gatilho não encontrad"
 
 #: routes/users.js:32
 msgid ""
 "An email with password reset instructions has been sent to your email "
 "address, if it exists on our system."
 msgstr ""
-"Un correo electrónico con instrucciones para restablecer la contraseña ha "
-"sido enviada a su dirección de correo electrónico, si existe en nuestro "
-"sistema."
+"Um e-mail com instruções de redefinição de senha foi enviado para seu endereço de e-mail, "
+"se ele existir em seu sistema. "
 
 #: routes/users.js:46 routes/users.js:64
 msgid "Unknown or expired reset token"
-msgstr "Reinicio de Token desconocido o caducado"
+msgstr "Token de redefinição desconhecido ou expirado"
 
 #: routes/users.js:66
 msgid "Your password has been changed successfully"
-msgstr "Tu contraseña ha sido cambiada exitosamente"
+msgstr "Sua senha foi alterada com sucesso"
 
 #: routes/users.js:87
 msgid "User data not found"
-msgstr "Datos de usuario no encontrados"
+msgstr "Dados do usuário não encontrados"
 
 #: routes/users.js:110
 msgid "Access token updated"
-msgstr "Token de acceso actualizado"
+msgstr "Token de acesso atualizado"
 
 #: routes/users.js:112
 msgid "Access token not updated"
-msgstr "Token de acceso no actualizado"
+msgstr "Token de acesso não atualizado"
 
 #: routes/users.js:139
 msgid "Account information updated"
-msgstr "Información de cuenta actualizada"
+msgstr "Informações da conta atualizadas"
 
 #: routes/users.js:141
 msgid "Account information not updated"
-msgstr "Información de cuenta no actualizada"
+msgstr "Informações da conta não atualizadas"
 
 #: services/feedcheck.js:51
 msgid "Feed error: %s"
-msgstr "Error de Feed: %s"
+msgstr "Erro de Feed: %s"
 
 #: services/feedcheck.js:54
 msgid "Found %s new campaign messages from feed"
-msgstr "Encontrado %s nueva campaña de mensajes desde Feed"
+msgstr "Encontrado %s novas mensagens de campanha do feed"
 
 #: services/feedcheck.js:56
 msgid "Found nothing new from the feed"
-msgstr "No se ha encontrado nada nuevo en el Feed"
+msgstr "Nada de novo encontrado no Feed"
 
 #: services/feedcheck.js:146
 msgid "RSS entry %s"
@@ -4657,8 +4655,8 @@ msgstr "Entrada RSS %s"
 
 #: services/importer.js:249
 msgid "Could not access import file"
-msgstr "No se pudo acceder al archivo de importación"
+msgstr "Não foi possível acessar o arquivo de importação"
 
 #: services/triggers.js:51
 msgid "Unknown trigger type %s"
-msgstr "Desconocido tipo de Trigger %s"
+msgstr "Tipo desconhecido de gatilho %s"
